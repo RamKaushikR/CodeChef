@@ -1,2 +1,2 @@
 # CodeChef
-Solutions to programming problems on CodeChef contests.
+Solutions to programming problems in CodeChef contests.
